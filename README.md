@@ -6,7 +6,7 @@
 
 ###  一、下载构建版本（仅用于Windows）
 
-1. 进入[releases](/releases)页面下载最新的构建版本
+1. 进入[releases](https://github.com/ScaredCube/biliDownloader/releases)页面下载最新的构建版本
 2. 使用单独文件夹放置exe文件
 3. 双击执行
 
