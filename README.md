@@ -2,6 +2,11 @@
 
 使用python编写的b站视频下载程序
 
+支持登录账号
+支持使用AV,BV,EP号下载
+支持批量下载SS番剧
+支持自定义FFMPEG路径
+
 ## 使用
 
 ###  一、下载构建版本（仅用于Windows）
@@ -29,3 +34,4 @@
 ## 致谢
 
 [bilibili-api](https://github.com/Nemo2011/bilibili-api) 及其样例代码
+[ffmpeg](http://ffmpeg.org/)
